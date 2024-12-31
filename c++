@@ -1,4 +1,6 @@
-first code:
+correct code starts at 158 line
+
+Practice first code:
 
 #include<iostream>
 using namespace std;
